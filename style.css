@@ -1,0 +1,67 @@
+#footer,nav{
+	background-color:#233946;
+	
+}	
+footer a{
+	color:white;
+}
+#logo{
+	font-size: 48px;
+	font-family:  'Dancing Script', cursive;
+	color:#98ca3f;
+}
+#main .carousel-inner img{
+	max-height: 78vh;
+	object-fit: cover;
+}
+.h1{
+	color:#98ca3f;
+}
+#cajon_Calculadora{
+	border:3px solid #70e000;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	width: 50vw;
+}
+.col h4{
+	text-align: center;
+}
+#body-admin{
+	max-height: 800px;
+}
+h3{
+	text-align: center;
+}
+#cajon_CalculadoraResistencia{
+	border:3px solid #70e000;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	width: 50vw;
+	height: 60vh;
+}
+#cajon_guardarProducto{
+	border:3px solid #70e000;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	width: 54vw;
+	height: 60vh;
+}
+#cajon_eliminarProducto{
+	border:3px solid #70e000;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	width: 54vw;
+	height: 40vh;
+}
+#imgbd {
+  width: 300px;
+  height: 300px;
+}
